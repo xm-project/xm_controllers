@@ -1,0 +1,9 @@
+<library path="lib/libxm_simple_head_controller">
+
+  <class name="xm_simple_head_controller/XmSimpleHeadController" type="xm_simple_head_controller::XmSimpleHeadController" base_class_type="controller_interface::ControllerBase">
+    <description>
+      simple controller for sending command directly to embeded system for kinematics calculation
+    </description>
+  </class>
+     
+</library>
